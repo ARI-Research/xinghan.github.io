@@ -27,6 +27,6 @@
 
 
 ## <a name="新闻"></a>🎉 新闻
-- <h3> [2024.07.03] 🚀🚀 Our paper 'Lite-SAM' has been accepted by ECCV 2024, with a high score of 544. !</h3>
+- <h3> [2024.07.03] 🚀🚀 Our paper 'Lite-SAM' has been accepted by ECCV 2024, with a high score of 544. ! </h3>
 - <h3> [2024.07.05] ⭐️  Our new paper XSAM-v1 is coming .
 - <h3> [2024.08.30] 🚀🚀 Our new project Yoloworld-plus will be coming .
