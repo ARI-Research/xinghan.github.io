@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/video_llama_logo.jpg" alt="xinghan" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="./facebook_cover_photo_2[1].png" alt="xinghan" style="width: 100%; min-width: 500px; display: block; margin: auto;"></a>
 </p>
 
 
